@@ -29,11 +29,7 @@ Website is Live on:      (https://alliance-university-website-design-mz6o.vercel
 ---
 
 ## Responsive
-1). Desktop View
-![Glassmorphism Website _ CodingLab and 3 more pages - Personal - Microsoft​ Edge 07-09-2024 17_55_17](https://github.com/user-attachments/assets/3242848d-3a6d-4c6f-b783-aff0f4697b22)
-2).Tab View
-![Glassmorphism Website _ CodingLab and 1 more page - Personal - Microsoft​ Edge 08-09-2024 00_10_31](https://github.com/user-attachments/assets/f9133271-0ce0-462f-b863-b225fec339ae)
-3). Mobile View
+1). Mobile View
 ![Glassmorphism Website _ CodingLab and 1 more page - Personal - Microsoft​ Edge 08-09-2024 00_05_38](https://github.com/user-attachments/assets/be39338c-16a1-415e-83ea-aea5b08e725f)
 
 ---
