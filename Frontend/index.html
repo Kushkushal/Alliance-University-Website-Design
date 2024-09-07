@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <title>Glassmorphism Website | CodingLab</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <!-- Overlay for darkened background -->
+    <div id="overlay"></div>
+
+    <header>
+        <!-- Splash Screen -->
+        <div id="splash-screen">
+            <h1>Welcome</h1>
+        </div>
+
+        <!-- Main Header Content -->
+        <nav class="navbar">
+            <div class="logo"><img src="images/gurukul_logo.png" alt=""></div>
+            <ul class="menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about-us">About Us</a></li>
+                <li><a href="#programs">Our Branches</a></li>
+                <li><a href="#contact-us">Contact Us</a></li>
+            </ul>
+            <div class="buttons">
+                <input type="button" value="Login" onclick="showLoginCard()">
+                <input type="button" value="Register" onclick="showRegisterCard()">
+            </div>
+        </nav>
+
+        <!-- Poster Card -->
+        <div id="home" class="poster-card">
+            <h2>Expand Your Knowledge</h2>
+            <p>Explore a wealth of educational resources and opportunities.</p>
+            <button class="poster-btn"><a href="#about-us"> Learn More</button></a>
+        </div>
+
+        <!-- Additional Information -->
+        <div id="about-us" class="more-info">
+           <center> <h3>About Us</h3>
+            <p>Gurukula is dedicated to providing quality education to underprivileged children in rural areas, ensuring they have access to essential learning resources and opportunities. We strive to bridge educational gaps and empower young minds for a brighter future.</p></center>
+        </div>
+    
+ 
+ <!-- 3D Flip Card Section -->
+  <br><center>
+ <div class="wrapper">
+    <div class="card front-face">
+       <img src="https://cdn.pixabay.com/photo/2023/06/03/02/03/student-8036792_1280.png" alt="Front Face Image">
+    </div>
+    <div class="card back-face">
+       <img src="images/gurukul_logo.png" alt="Back Face Image">
+       <div class="info">
+          <div class="title">Gurukula</div>
+          <p>Education is the most powerful <br>weapon which you can use to change the world.</p>
+          <input type="button" value="Learn More" onclick="showCard()">
+       </div>
+       <ul>
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-youtube"></i></a>
+       </ul>
+    </div>
+ </div>
+ </center>
+ 
+ 
+
+       <br>
+        <div id="programs" class="more-info">
+           <center> <h3>Our Branches</h3>
+            <p>Explore the diverse locations of our branches and learn about the educational programs and opportunities available in each area.</p></center>
+        </div>
+         <!-- New Section: Image Hover Animation -->
+         <div class="container">
+            <div class="icon-image">
+                <div class="icon">
+                    <img src="images/gurukul_logo.png" alt="" />
+                </div>
+                <div class="hover-image one">
+                    <div class="img">
+                        <img src="images/banglore.jpg" alt="" />
+                    </div>
+                    <div class="content">
+                        <div class="details">
+                            <div class="name">Banglore</div>
+                            <div class="job">Pathways to Success</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="icon-image">
+                <div class="icon">
+                    <img src="images/gurukul_logo.png" alt="" />
+                </div>
+                <div class="hover-image one">
+                    <div class="img">
+                        <img src="images/mandya.jpg" alt="" />
+                    </div>
+                    <div class="content">
+                        <div class="details">
+                            <div class="name">Mandya</div>
+                            <div class="job">A Future of Knowledge</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="icon-image">
+                <div class="icon">
+                    <img src="images/gurukul_logo.png" alt="" />
+                </div>
+                <div class="hover-image one">
+                    <div class="img">
+                        <img src="images/mysur.jpg" alt="" />
+                    </div>
+                    <div class="content">
+                        <div class="details">
+                            <div class="name">Hassan</div>
+                            <div class="job">Education as a Right</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="icon-image">
+                <div class="icon">
+                    <img src="images/gurukul_logo.png" alt="" />
+                </div>
+                <div class="hover-image one">
+                    <div class="img">
+                        <img src="images/hasan.webp" alt="" />
+                    </div>
+                    <div class="content">
+                        <div class="details">
+                            <div class="name">Mysore</div>
+                            <div class="job">Knowledge for Change</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="icon-image">
+                <div class="icon">
+                    <img src="images/gurukul_logo.png" alt="" />
+                </div>
+                <div class="hover-image one">
+                    <div class="img">
+                        <img src="images/belagavi.jpg" alt="" />
+                    </div>
+                    <div class="content">
+                        <div class="details">
+                            <div class="name">Belagavi</div>
+                            <div class="job">Empowering Dreams</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Repeat for other images as shown in your new code -->
+            <!-- Make sure to update image sources and details accordingly -->
+        </div>
+
+
+        <div id="contact-us" class="more-info">
+            <center>
+                <h3>Contact Us</h3>
+                <p>If you have any questions, feel free to reach out. We are here to help you.</p>
+            </center>
+            <div class="contact">
+                <div class="row">
+                    <div class="col form">
+                        <form>
+                            <input type="text" placeholder="Name*" id="username" required>
+                            <input type="email" placeholder="Email*" id="email" required>
+                            <textarea placeholder="Message*" id="message" required></textarea>
+                            <button id="submit" type="submit">Send Message</button>
+                        </form>
+                    </div>
+                    <div class="col image">
+                        <img src="images/gurukul_logo.png" alt="Contact Image">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+  
+        <!-- Footer -->
+        <footer style="background-color: black; color: white; text-align: center; padding: 10px 0;">
+            <p>All Rights Reserved @2024</p>
+        </footer>
+    </header>
+
+    <!-- Login Card -->
+    <div id="login-card" class="login-card" style="display: none;">
+        <h2>Login</h2>
+        <form>
+            <input type="text" id="username" placeholder="Username" required>
+            <input type="password" id="password" placeholder="Password" required>
+            <button type="submit" class="login-btn">Login</button>
+        </form>
+        <span class="close-btn" onclick="hideLoginCard()">×</span>
+    </div>
+
+    <!-- Register Card -->
+    <div id="register-card" class="register-card" style="display: none;">
+        <h2>Register</h2>
+        <form>
+            <input type="text" id="reg-username" placeholder="Username" required>
+            <input type="email" id="email" placeholder="Email" required>
+            <input type="password" id="reg-password" placeholder="Password" required>
+            <button type="submit" class="register-btn">Register</button>
+        </form>
+        <span class="close-btn" onclick="hideRegisterCard()">×</span>
+    </div>
+
+    <div id="card" class="login-card" style="display: none;">
+        <!-- Image in a round shape -->
+        <img src="images/gurukul_logo.png" alt="Gurukula Image" class="round-image">
+    
+        <!-- Text below the image -->
+        <p class="font"><b>Gurukula</b> is dedicated to providing quality education to underprivileged children in rural areas, ensuring they have access to essential learning resources and opportunities. <br> We strive to bridge educational gaps and empower young minds for a brighter future, working tirelessly to offer a chance at a better life to those who are eager to learn but lack the means to do so. Our mission is to create a supportive and nurturing environment where every child can reach their full potential, regardless of their financial situation.
+
+</p>
+<br>
+<footer style="background-color: black; color: white; text-align: center; padding: 8px 0; width: 100%;margin-left: 0px;border-radius: 4px;">
+    <p>Thank You</p>
+</footer>
+    
+        <!-- Close button -->
+        <span class="close-btn" onclick="hideCard()">×</span>
+    </div>
+    
+    <script src="script.js"></script>
+    <script>
+        // JavaScript to handle splash screen visibility
+        document.addEventListener("DOMContentLoaded", function() {
+            setTimeout(function() {
+                document.getElementById('splash-screen').style.opacity = '0';
+                setTimeout(function() {
+                    document.getElementById('splash-screen').style.display = 'none';
+                }, 500); // Delay to allow fade-out effect
+            }, 2000); // 3 seconds splash screen duration
+        });
+
+        // JavaScript to show/hide login card and overlay
+        function showLoginCard() {
+            document.getElementById('login-card').style.display = 'block';
+            document.getElementById('overlay').style.display = 'block';
+        }
+
+        function hideLoginCard() {
+            document.getElementById('login-card').style.display = 'none';
+            document.getElementById('overlay').style.display = 'none';
+        }
+
+        // JavaScript to show/hide register card and overlay
+        function showRegisterCard() {
+            document.getElementById('register-card').style.display = 'block';
+            document.getElementById('overlay').style.display = 'block';
+        }
+
+        function hideRegisterCard() {
+            document.getElementById('register-card').style.display = 'none';
+            document.getElementById('overlay').style.display = 'none';
+        }
+        function showCard() {
+            document.getElementById('card').style.display = 'block';
+            document.getElementById('overlay').style.display = 'block';
+        }
+
+        function hideCard() {
+            document.getElementById('card').style.display = 'none';
+            document.getElementById('overlay').style.display = 'none';
+        }
+
+        
+    </script>
+</body>
+</html>
