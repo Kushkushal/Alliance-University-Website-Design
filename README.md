@@ -10,6 +10,7 @@ Website is Live on:      (https://alliance-university-website-design-mz6o.vercel
 ## Output
 1).Splash Screen
 ![contact - Realtime Database - Firebase console and 4 more pages - Personal - Microsoft​ Edge 07-09-2024 17_54_20](https://github.com/user-attachments/assets/101935e1-9119-407e-b326-27b6fb87cabb)
+
 2).Main Screen
 ![Glassmorphism Website _ CodingLab and 3 more pages - Personal - Microsoft​ Edge 07-09-2024 17_55_17](https://github.com/user-attachments/assets/3242848d-3a6d-4c6f-b783-aff0f4697b22)
 3).Login Screen
@@ -25,7 +26,17 @@ Website is Live on:      (https://alliance-university-website-design-mz6o.vercel
 7).Firebase Connection
 ![contact - Realtime Database - Firebase console and 4 more pages - Personal - Microsoft​ Edge 07-09-2024 17_51_18](https://github.com/user-attachments/assets/4cafa35b-0b6c-4909-b2ce-0ab5acac419d)
 
+
 ---
+
+## Responsive
+1). Desktop View
+![Glassmorphism Website _ CodingLab and 3 more pages - Personal - Microsoft​ Edge 07-09-2024 17_55_17](https://github.com/user-attachments/assets/3242848d-3a6d-4c6f-b783-aff0f4697b22)
+2).Tab View
+
+3). Mobile View
+![Glassmorphism Website _ CodingLab and 1 more page - Personal - Microsoft​ Edge 08-09-2024 00_05_38](https://github.com/user-attachments/assets/be39338c-16a1-415e-83ea-aea5b08e725f)
+
 
 ## Conclusion
 The design and development process focused on creating a user-friendly, responsive, and visually appealing website that aligns with key UX/UI principles. By ensuring ease of navigation, fast loading times, and accessibility across all devices, the site provides a positive user experience. Additionally, the integration of SEO best practices and a CMS enables easy content management and improved search engine visibility. Overall, the project delivers a secure, well-optimized, and engaging platform for users.
