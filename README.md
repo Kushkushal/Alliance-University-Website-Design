@@ -28,11 +28,5 @@ Website is Live on:      (https://alliance-university-website-design-mz6o.vercel
 
 ---
 
-## Responsive
-1). Mobile View
-![Glassmorphism Website _ CodingLab and 1 more page - Personal - Microsoft​ Edge 08-09-2024 00_05_38](https://github.com/user-attachments/assets/be39338c-16a1-415e-83ea-aea5b08e725f)
-
----
-
 ## Conclusion
 The design and development process focused on creating a user-friendly, responsive, and visually appealing website that aligns with key UX/UI principles. By ensuring ease of navigation, fast loading times, and accessibility across all devices, the site provides a positive user experience. Additionally, the integration of SEO best practices and a CMS enables easy content management and improved search engine visibility. Overall, the project delivers a secure, well-optimized, and engaging platform for users.
