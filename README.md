@@ -1,11 +1,12 @@
-# GURUKULA
+## GURUKULA
 
-
+---
 
 ## Website is Live on: 
 https://alliance-university-website-design-mz6o.vercel.app/
+## Figma Design:
 
-
+---
 
 ## Output
 1).Splash Screen
@@ -25,6 +26,7 @@ https://alliance-university-website-design-mz6o.vercel.app/
 7).Firebase Connection
 ![contact - Realtime Database - Firebase console and 4 more pages - Personal - Microsoft​ Edge 07-09-2024 17_51_18](https://github.com/user-attachments/assets/4cafa35b-0b6c-4909-b2ce-0ab5acac419d)
 
+---
 
 ## Conclusion
 The design and development process focused on creating a user-friendly, responsive, and visually appealing website that aligns with key UX/UI principles. By ensuring ease of navigation, fast loading times, and accessibility across all devices, the site provides a positive user experience. Additionally, the integration of SEO best practices and a CMS enables easy content management and improved search engine visibility. Overall, the project delivers a secure, well-optimized, and engaging platform for users.
