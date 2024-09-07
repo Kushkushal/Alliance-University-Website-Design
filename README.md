@@ -3,7 +3,7 @@
 ---
 
 ## Link
-Website is Live on: (https://alliance-university-website-design-mz6o.vercel.app/)
+Website is Live on:      (https://alliance-university-website-design-mz6o.vercel.app/)
 
 ---
 
