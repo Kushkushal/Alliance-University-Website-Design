@@ -2,14 +2,6 @@
 
 ---
 
-## Link
-Website is live on: https://alliance-university-website-design-mz6o.vercel.app/
- 
-Figma Design: https://shorturl.at/JcVTk
-
-
----
-
 ## Output
 1).Splash Screen
 ![contact - Realtime Database - Firebase console and 4 more pages - Personal - Microsoft​ Edge 07-09-2024 17_54_20](https://github.com/user-attachments/assets/101935e1-9119-407e-b326-27b6fb87cabb)
