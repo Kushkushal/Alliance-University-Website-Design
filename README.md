@@ -1,4 +1,4 @@
-## GURUKULA
+## Gurukula
 
 ---
 
