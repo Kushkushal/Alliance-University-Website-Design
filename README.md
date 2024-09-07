@@ -2,10 +2,10 @@
 
 ---
 
-## Website is Live on: 
-https://alliance-university-website-design-mz6o.vercel.app/
-## Figma Design: 
-https://shorturl.at/JcVTk
+## Link
+Website is live on: https://alliance-university-website-design-mz6o.vercel.app/
+ 
+Figma Design: https://shorturl.at/JcVTk
 
 
 ---
